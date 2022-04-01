@@ -1,0 +1,100 @@
+In computing, keyboards are used as input devices.#TRUE#
+Operating systems are software systems that help make it more convenient to use computers and to manage the transitions between multiple jobs.#TRUE#
+C++ is a superset of C; it "spruces up" the C language and provides capabilities for object oriented programming.#TRUE#
+A computer is a device capable of performing computations and making logical decisions.#TRUE#
+Most programs in C++ input data from stdin and output data from stdout.#FALSE#
+The language understood by the microprocessor is called assembly language.#FALSE#
+A machine cycle is the time it take the microprocessor to fetch and execute a complete instruction.#FALSE#
+C, C++, and java are among the most powerful and most widely used assembly languages#FALSE#
+Machine language is the "natural language" of a particular computer.#TRUE#
+C++ has become widely used for writing software for computer networking and for distribution client/server applications.#FALSE#
+Nintendo was founded after the year 1900.#FALSE#
+Atomic bombs work by atomic fission.#TRUE#
+CPU stands for central processing unit.#TRUE#
+GPU stands for game processing unit.#FALSE#
+The hubble telescope was named for Edwin Hubble.#TRUE#
+Apple released the first iPhone in 2003.#FALSE#
+Firefox and Chrome are examples of operating systems.#FALSE#
+RAM stands for random-access memory.#TRUE#
+Bill Gates was the only founder of microsoft.#FALSE#
+Apple was the first company to produce a computer of any capacity.#FALSE#
+It takes two memory locations (16 bits each) to store an address in the 8085 system#FALSE#
+A compiler is a translation program that converts high-level instructions into a set of binary instructions (machine code) for execution.#TRUE#
+The control bus and memories share a bidirectional bus in a typical microprocessor system.#FALSE#
+The language understood by the microprocessor is called assembly language.#FALSE#
+A machine cycle is the time it takes a microprocessor to fetch and execute a complete instruction."#FALSE#
+An address bus is also called a unidirectional bus.#TRUE#
+A coprocessor is a microprocessor designed with a limited instruction set optimized to perform arithmetic operations very quickly."#FALSE#
+To keep the number of IC pins to a minimum, the 8085 uses a multiplexed bus.#TRUE#
+Machine language is independent of the type of microprocessor in a computer system.#TRUE#
+A mnemonic is an English-like instruction that is converted by an assembler into a machine code for use by a processor.#TRUE#
+Social media actually goes back to some of the earliest Internet technologies and even predates the Internet.#TRUE#
+E-mail is still the most popular online communication technology.#FALSE#
+Pervasive computing refers to the fact that computer and communication devices allow one to access information anytime, anywhere.#TRUE#
+The World Wide Web has been around for more than 30 years.#FALSE#
+A client/server network consists of one client and several server computers.#FALSE#
+Information is data that has been summarized or otherwise processed for use in decision-making.#TRUE#
+Expansion slots provide a computer with additional secondary storage.#FALSE#
+The focus of IT is to incorporate new, cutting-edge technologies into existing business processes.#FALSE#
+Computers require programs, which are lists of specific instructions, in order to carry out their work.#TRUE#
+People are a key ingredient in ensuring the success of information systems in a business environment.#TRUE#
+A monitor displays information?#TRUE#
+A SD card is an output device?#FALSE#
+Microsoft office is a piece of software?#TRUE#
+A firewall is a type of hardware?#FALSE#
+A terabyte is equal to 1 million gigabytes?#FALSE#
+Bluetooth allows your device to connect with another device#TRUE#
+A processor accepts your commands for the computer?#TRUE#
+Software that is free for trial is called shareware.?#TRUE#
+CD stands for collective disk?#FALSE#
+A pen drive is a storage device?#TRUE#
+a microphone is used as an output device?#FALSE#
+the CPU is referred as the stomache of the computer ?#FALSE#
+a computer is a piece of hardware?#TRUE#
+a processor accepts commands from your computer ?#TRUE#
+the DVORAK keyboard is 20 times faster than your average QWERTY keyboard?#TRUE#
+E-Mail was around before the world wide web?#TRUE#
+8 bits = 1 byte?#TRUE#
+HP, Microsoft, and Apple were all started in a garage?#TRUE#
+the Firefox logo is actually a red panda?#TRUE#
+a macbook battery is bulletproof?#TRUE#
+4 bits = 1 nibble?#TRUE#
+Microsoft office is a free software that comes pre-installed on every computer?#FALSE#
+You can plug a USB 3.0 in both ways#FALSE#
+Holding in the power button to turn off your computer corrupts data.#TRUE#
+Electrostatic Discharge is when a computer component is electrocuted by static electricity from the handler.#TRUE#
+A keyboard is the only input device that a computer can use#FALSE#
+The "home" key takes you to your desktop#FALSE#
+Each computer has a NIC or Network Interface Card#TRUE#
+Each computer has a MAC Address that is used to locate it, like an IP Address#TRUE#
+You're supposed to safely eject your flash drive before removing it to prevent data corruption#TRUE#
+Mac and Windows are two different processing systems#TRUE#
+Mac in made by Apple#TRUE#
+Windows is made Microsoft#TRUE#
+David Filo & Jeffry Yang developed google#FALSE#
+Ray Tomlinson sent the first email#TRUE#
+Google is the only internet search engine#FALSE#
+Compact discs hold 1,000 minutes of music#FALSE#
+The average power (in watts) used by a 20 to 25 inch color tv is 70 - 100 watts#TRUE#
+the headquarters of intel is located in japan#FALSE#
+Spam email is a myth#FALSE#
+Hoverboards have been burtsing into flames because of faulty lithium batteries#TRUE#
+Stereolithography is a type of 3D printing technoology#TRUE#
+There are only 1 million mobile subscribers within the United States#FALSE#
+Approximently 350 million snapchats are sent world wide every day#TRUE#
+The first mouse was invented by Douglas Engelbart#TRUE#
+Approximately 3 million cell phones are sold everyday#TRUE#
+150 out of every 1000 computers are infected with spam#FALSE#
+since 2008, DVD has out sold video games#FALSE#
+HTC's dream was the first Android phone#TRUE#
+the first ever cell phone weighed about 2 lbs#TRUE#
+The first electronic computer ENIAC weighed more than 27 tons and took up 1800 square feet#TRUE#
+90\% of the world’s currency is physical money.  The other 10% is on computers#FALSE# 
+\"Typewriter\" is the longest word that you can write using the letters only on one row of a keyboard#TRUE#
+The first computer mouse was made of wood#TRUE# 
+There are less than 5000 new computer viruses released every month#FALSE#
+50\% of Wikipedia vandalism is caught by a group of computer programs with more than 90% accuracy#FALSE#
+If a computer was as powerful as a human brain, it would be able to execute 38,000-trillion operations a second#TRUE# 
+The password for nuclear missiles of the US was 00000000 for 8 years#TRUE# 
+70\% of virus writers are said to work under contract for the CIA#FALSE#
+ASCII values are a series of 8 numbers between 1-3#FALSE#
